@@ -6,3 +6,4 @@ This code helps in getting the steering angle of self driving car. The inspiraio
 
 Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
+
